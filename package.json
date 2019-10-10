@@ -21,7 +21,7 @@
     "javascript",
     "eslint"
   ],
-  "author": "Manz",
+  "author": "JeramDev",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.5.5",
